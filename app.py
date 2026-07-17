@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pickle
 
@@ -11,16 +10,6 @@ vectorizer = pickle.load(open("tfidf_vectorizer.pkl", "rb"))
 # -----------------------------
 # Page Configuration
 # -----------------------------
-=======
-
-import streamlit as st
-import pickle
-
-# Load model and vectorizer
-model = pickle.load(open("fake_news_model.pkl", "rb"))
-vectorizer = pickle.load(open("tfidf_vectorizer.pkl", "rb"))
-
->>>>>>> 24f9374933d614afbb706b6b02f7d8444fddc919
 st.set_page_config(
     page_title="AI Fake News Detector",
     page_icon="📰",
