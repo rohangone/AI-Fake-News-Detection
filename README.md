@@ -189,3 +189,29 @@ This project is developed for educational, academic, and internship purposes.
 # ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
+
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+![Home](Images/home.png)
+
+---
+
+## 📝 Input News Article
+
+![Input](Images/input.png)
+
+---
+
+## ❌ Fake News Prediction
+
+![Fake Prediction](Images/fake_prediction.png)
+
+---
+
+## ✅ Real News Prediction
+
+![Real Prediction](Images/real_prediction.png)
